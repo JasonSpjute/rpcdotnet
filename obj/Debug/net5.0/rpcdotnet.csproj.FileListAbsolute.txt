@@ -1,0 +1,16 @@
+C:\source\codeworks\rpcdotnet\bin\Debug\net5.0\rpcdotnet.exe
+C:\source\codeworks\rpcdotnet\bin\Debug\net5.0\rpcdotnet.deps.json
+C:\source\codeworks\rpcdotnet\bin\Debug\net5.0\rpcdotnet.runtimeconfig.json
+C:\source\codeworks\rpcdotnet\bin\Debug\net5.0\rpcdotnet.runtimeconfig.dev.json
+C:\source\codeworks\rpcdotnet\bin\Debug\net5.0\rpcdotnet.dll
+C:\source\codeworks\rpcdotnet\bin\Debug\net5.0\ref\rpcdotnet.dll
+C:\source\codeworks\rpcdotnet\bin\Debug\net5.0\rpcdotnet.pdb
+C:\source\codeworks\rpcdotnet\obj\Debug\net5.0\rpcdotnet.csprojAssemblyReference.cache
+C:\source\codeworks\rpcdotnet\obj\Debug\net5.0\rpcdotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\rpcdotnet\obj\Debug\net5.0\rpcdotnet.AssemblyInfoInputs.cache
+C:\source\codeworks\rpcdotnet\obj\Debug\net5.0\rpcdotnet.AssemblyInfo.cs
+C:\source\codeworks\rpcdotnet\obj\Debug\net5.0\rpcdotnet.csproj.CoreCompileInputs.cache
+C:\source\codeworks\rpcdotnet\obj\Debug\net5.0\rpcdotnet.dll
+C:\source\codeworks\rpcdotnet\obj\Debug\net5.0\ref\rpcdotnet.dll
+C:\source\codeworks\rpcdotnet\obj\Debug\net5.0\rpcdotnet.pdb
+C:\source\codeworks\rpcdotnet\obj\Debug\net5.0\rpcdotnet.genruntimeconfig.cache
